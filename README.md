@@ -11,9 +11,9 @@
  
  🙌 I’m interested in **Data Analytics and Data Engineering**
  
- 🌱 I’m currently learning **Cloud Computing**
+ 🌱 I’m currently learning **Python**
 
- ❄️ My skills includes **Python, DBMS, SQL, Unix, Cloud Computing**
+ ❄️ My skills includes **Python, DBMS, SQL, Cloud Computing, Data Science, Data Structures**
 
  </div>
  
